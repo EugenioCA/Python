@@ -1,5 +1,5 @@
-# Python Blogs
-Python code snippets
+# Python Snippets
+
 
 This repository contains code written in Python and created for blogs written for different clients and as examples for my teaching classes.
 
