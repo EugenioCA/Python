@@ -5,6 +5,5 @@ This repository contains code written in Python and created for blogs written fo
 
 <ol>
   <li><a href="https://github.com/EugenioCA/Python/blob/master/Calculus - Definite integrals.ipynb">Calculus: Definite integrals</a></li>
-  <li><a href="https://github.com/EugenioCA/Python-Blogs/blob/master/minidomparser.py">XML minidom parser</a></li>
-
+ 
 </ol>
